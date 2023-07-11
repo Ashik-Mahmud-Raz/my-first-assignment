@@ -1,0 +1,25 @@
+#bold{
+
+    font-family: Lato;
+    font-size: 60px;
+    font-weight: 800;
+}
+
+
+#back{
+
+    background: rgba(223, 124, 146, 0.41) ;
+    margin: 2px;
+  
+
+}
+
+
+.button{
+
+    border-radius: 8px;
+    background: #E55473;
+    padding: 20px 43px;
+    color:aliceblue;
+
+}
