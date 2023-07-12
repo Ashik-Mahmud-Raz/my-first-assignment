@@ -49,8 +49,6 @@ padding:33px 0px;
 #image{
 width: 350px;
 height: 550px;
-flex-shrink: 0;
-margin-right: 300px;
 margin-bottom: 0px;
 
 }
@@ -61,6 +59,7 @@ width: 318px;
 height: 400px;
 flex-shrink: 0;
 margin-right: 350px;
+margin-bottom: 0px;
 }
 
 .img3
@@ -133,9 +132,9 @@ li
 .back-image
 {
     background-image: url('../Flower Asset/Rectangle 9.png');
-    width: 850px;
+    width: 845px;
     height: 350px;
-   margin-left: 300px;
+   margin-left: 215px;
    margin-top: 70px;
 
 }
@@ -160,9 +159,10 @@ height: 52px;
     
     margin: 0px;
     margin-top: 70px;
-    width: 1922px;
-    height: 300px;
+    width: 700px;
+    height: 200px;
     color: aliceblue;
+    padding: 100px 300px;
     
 }
 
@@ -188,5 +188,5 @@ font-weight: 800;
 .last-part
 {
     text-align: center;
-    padding:50px ;
+   
 }
