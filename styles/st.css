@@ -152,3 +152,41 @@ height: 52px;
     text-align: center;
     padding: 100px 50px;
 }
+
+
+.foo
+{
+    background-color: black;
+    
+    margin: 0px;
+    margin-top: 70px;
+    width: 1922px;
+    height: 300px;
+    color: aliceblue;
+    
+}
+
+#col
+{
+color: #E55473;
+font-family: Lato;
+font-size: 48px;
+font-weight: 800;
+
+}
+
+
+#co
+{
+color:aliceblue;
+font-family: Lato;
+font-size: 48px;
+font-weight: 800;
+
+}
+
+.last-part
+{
+    text-align: center;
+    padding:50px ;
+}
